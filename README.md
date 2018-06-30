@@ -1,4 +1,4 @@
-# SierpinskiGasket
+# Sierpinski Gasket
 Simple App which draws the Sierpinski Gasket
 
 The Sierpinski Gasket is an Object which can be definded randomly. This is an Example how it can be done using OpenGL. Suppose that
