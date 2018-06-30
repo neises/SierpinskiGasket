@@ -1,6 +1,0 @@
-﻿  main.cpp
-c:\users\ron\desktop\sierpinskiapp\sierpinskiapp\utility.h(21): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
-c:\users\ron\desktop\sierpinskiapp\sierpinskiapp\utility.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: Siehe Deklaration von "fopen"
-LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
-  SierpinskiApp.vcxproj -> C:\Users\Ron\Desktop\SierpinskiApp\Debug\SierpinskiGLApp.exe
