@@ -32,7 +32,7 @@ int main()
 	glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
 
 	// Create the window
-	GLFWwindow *mainWindow = glfwCreateWindow(WIDTH, HEIGHT, "Test Window", NULL, NULL);
+	GLFWwindow *mainWindow = glfwCreateWindow(WIDTH, HEIGHT, "Sierpinski Gasket", NULL, NULL);
 	if (!mainWindow)
 	{
 		printf("GLFW window creation failed!");
